@@ -7,7 +7,7 @@
 ### What is this?
 
 A cross-language analysis of the phonetic components of Chinese characters (sinograms) as used throughout different languages.
-Languages used here include Japanese, Korean, Mandarin, Cantonese, Tangn Chinese, and Vietnamese.
+Languages used here include Japanese, Korean, Mandarin, Cantonese, Tang Chinese, and Vietnamese.
 
 ### Who is this for?
 
