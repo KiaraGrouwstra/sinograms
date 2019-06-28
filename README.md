@@ -1,7 +1,7 @@
 # sinograms
 
 ### Links
-- [result](https://docs.google.com/leaf?id=0Bxx6Yr8fYU-fYjhjNjdlOTEtYzk3Yy00ZDQ2LWE3NzUtZTQzNmMzMjM5MzJi&hl=en)
+- [result](https://docs.google.com/spreadsheets/d/1LAwAtprp2BAsb8EzhGhSuE3WRzHyt9YHyJwwbGqKtpE/edit?usp=sharing)
 - [source data](https://docs.google.com/leaf?id=0Bxx6Yr8fYU-fYjhjNjdlOTEtYzk3Yy00ZDQ2LWE3NzUtZTQzNmMzMjM5MzJi&hl=en)
 
 ### What is this?
